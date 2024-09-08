@@ -1,4 +1,3 @@
-package lib.VideoJava;
 import java.util.Scanner;
 import java.util.Random;
 
